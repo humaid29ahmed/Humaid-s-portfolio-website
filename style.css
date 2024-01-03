@@ -1,0 +1,75 @@
+.background1{
+    background-color: #11009E;
+    font-family: 'Montserrat', sans-serif;
+    color: #FAE7F3;
+}
+header
+{   width: 100%;
+    position: fixed;
+    top: 0px;
+    background-color: #11009E;
+}
+.colorlink{
+    color: #FAE7F3;
+}
+
+.background2
+{
+    background-color: #4942E4;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.education{
+    display: flex;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.eduImage{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.skills{
+    display: grid;
+    height: 600px;
+    gap: 30px;
+    grid-template-rows: 1fr 1fr 1fr ;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.skilldiv
+{
+    background-color: #4942E4;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px ;
+    font-family: 'Montserrat';
+}
+
+.langdiv
+{
+    height: 100px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    font-family: 'Montserrat';
+
+}
+
+
